@@ -1,4 +1,4 @@
-
+/* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { BsGithub } from 'react-icons/bs';
 import { FaFacebookF } from 'react-icons/fa';
